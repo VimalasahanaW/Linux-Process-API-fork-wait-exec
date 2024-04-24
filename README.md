@@ -179,7 +179,7 @@ int main() {
 
 
 ## OUTPUT
-![image](https://github.com/VimalasahanaW/Linux-Process-API-fork-wait-exec/assets/144870812/5d4e1324-c505-416e-b925-16f84793ea88)
+![image](https://github.com/VimalasahanaW/Linux-Process-API-fork-wait-exec/assets/144870812/6db0c155-32a3-4a78-a808-9a2b0853cbe9)
 
 
 
